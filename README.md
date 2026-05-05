@@ -17,9 +17,8 @@ Prospective advisors with aligned research interests are very welcome to contact
 
 ## 📄 Publications
 
-**Yuanhang Yao**, Ping Qian, Zhu Liu, Long Ma, and Weimin Wang. **Learning with Semantic Priors: Stabilizing Point-Supervised Infrared Small Target Detection via Hierarchical Knowledge Distillation.** Accepted to **IJCAI-ECAI 2026**. [[Paper]](your_paper_link) [[Code]](https://github.com/yuanhang-yao/semantic-prior)
-
-Zhu Liu, **Yuanhang Yao**, Ping Qian, Zihang Chen, and Risheng Liu. **Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection.** Accepted to **ICML 2026** as a **Spotlight** paper (**Top 2.2%**). [[Paper]](your_paper_link) [[Code]](https://github.com/yuanhang-yao/diffuse-to-detect)
+- **Yuanhang Yao**, Ping Qian, Zhu Liu, Long Ma, and Weimin Wang. **Learning with Semantic Priors: Stabilizing Point-Supervised Infrared Small Target Detection via Hierarchical Knowledge Distillation.** Accepted to **IJCAI-ECAI 2026**. [[Paper]](your_paper_link) [[Code]](https://github.com/yuanhang-yao/semantic-prior)
+- Zhu Liu, **Yuanhang Yao**, Ping Qian, Zihang Chen, and Risheng Liu. **Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection.** Accepted to **ICML 2026** as a **Spotlight** paper (**Top 2.2%**). [[Paper]](your_paper_link) [[Code]](https://github.com/yuanhang-yao/diffuse-to-detect)
 
 ---
 
